@@ -1,0 +1,13 @@
+{
+  "name": "GeeksAround.me",
+  "default_locale": "en-US",
+  "icons": {
+    "120": "/style/icons/icon.png"
+  },
+  "description": "GeeksAround.me - find like minded geeks in your proximity.",
+  "launch_path": "/",
+  "developer": {
+    "url": "http://www.yammer.com",
+    "name": "Yammer Engineering"
+  }
+}
