@@ -1,4 +1,11 @@
 {
+ "geeksaroundme": {
+   "origin": "file:///data/local/webapps/geeksaroundme",
+   "installOrigin": "http://geeksaround.me",
+   "receipt": null,
+   "installTime": 1323339869000
+ },
+
  "dialer": {
     "origin": "http://dialer.gaiamobile.org/",
     "installOrigin": "http://dialer.gaiamobile.org/",
